@@ -1,0 +1,1 @@
+React application based on https://github.com/leighhalliday/the-clima-front/ with test cases written using **Jest** and **Enzyme**. 
